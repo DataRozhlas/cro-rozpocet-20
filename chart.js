@@ -45,7 +45,7 @@ var dta = {
             'Ostatní provozní výnosy': 'přijaté dary, granty a dotace, tržby z prodeje majetku a materiálu, zúčtování fondu digitalizace',
             'Finanční výnosy': 'přijaté úroky, kurzové zisky a ostatní finanční výnosy',
             'Mimořádné výnosy': 'tržby z prodeje nemovitostí, aj.',
-            'Zúčtovaní fondu digitalizace': 'zúčtování účelového fondu na kraytí nákladů souvisejících s digitalizací vysílání a archivu ČRo',
+            'Zúčtování fondu digitalizace': 'zúčtování účelového fondu na krytí nákladů souvisejících s digitalizací vysílání a archivu ČRo',
             'Tržby za vlastní výkony': 'vedle výnosů z rozhlasových poplatků skupina obsahuje i výnosy z obchodních aktivit a prodeje služeb'  
         },
         'series': [{
